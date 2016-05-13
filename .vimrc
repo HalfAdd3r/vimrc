@@ -7,5 +7,5 @@ set shiftwidth=4
 set expandtab
 
 set backspace=indent,eol,start
-set textwidth=80
+set textwidth=90
 colorscheme elflord
